@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moodybleu
-- 👀 I’m interested in photography, puzzles, and geology
+- 👀 I’m interested in photography, puzzles, and astronomy
 - 🌱 I currently want learn Swift, React Native, and Angular
-- 💞️ I’m looking to collaborate on web design
+- 💞️ I’m looking to learn more about web design
 - 📫 How to reach me? on linkedIn www.linkedin.com/in/megan-benn
 
 <!---
